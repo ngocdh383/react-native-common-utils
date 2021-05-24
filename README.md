@@ -2,8 +2,8 @@
 
 ## Getting started
 
-`$ yarn add react-native-common-utils`
+`$ yarn add react-native-commons-utils`
 
 or
 
-`$ npm install react-native-common-utils`
+`$ npm install react-native-commons-utils`
