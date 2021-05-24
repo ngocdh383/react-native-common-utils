@@ -3,7 +3,6 @@
     "title": "React Native Commons Uitls",
     "version": "0.0.1",
     "description": "TODO",
-    "main": "index.js",
     "scripts": {
         "test": "jest"
     },
@@ -16,7 +15,8 @@
         "react-native",
         "react-native-mini-app-view",
         "@react-native-banvien/mini-app-view",
-        "react-native-mini-app-template"
+        "react-native-mini-app-template",
+        "react-native-commons-utils"
     ],
     "author": {
         "name": "Dinh Hong Ngoc",

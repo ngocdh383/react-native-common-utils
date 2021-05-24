@@ -1,0 +1,1 @@
+export function getScale(): 1 | 2 | 3;
