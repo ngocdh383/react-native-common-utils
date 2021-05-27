@@ -1,7 +1,7 @@
 {
     "name": "react-native-commons-utils",
     "title": "React Native Commons Uitls",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "TODO",
     "scripts": {
         "test": "jest"
