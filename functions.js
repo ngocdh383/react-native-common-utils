@@ -1,4 +1,4 @@
-import { PixelRatio } from "react-native";
+import { PixelRatio, Platform } from "react-native";
 
 export function getScale() {
   const pixelRatio = PixelRatio.get();
@@ -11,4 +11,8 @@ export function getScale() {
   }
 
   return 3;
+}
+
+export function isAndroid() {
+  return Platform.OS === "android";
 }
